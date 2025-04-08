@@ -2,7 +2,7 @@
 A data-driven approach to identifying the ideal striker for Arsenal, integrating tactical, performance, and market analytics.
 
 ## Project Structure
-| Directory/File                  | Description                                            |
+| Directory                       | Description                                            |
 |---------------------------------|--------------------------------------------------------|
 | `README.md`                      | Project overview, methodology                          |
 | `requirements.txt`              | Python dependencies                                    |
